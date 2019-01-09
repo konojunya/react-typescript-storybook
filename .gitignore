@@ -113,3 +113,5 @@ typings/
 
 ## project settings
 dist/
+
+/__screenshots__.reg
